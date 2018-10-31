@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\bin\Debug\Tipkalo sata.exe.config
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\bin\Debug\Tipkalo sata.exe
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\bin\Debug\Tipkalo sata.pdb
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo sata.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo_sata.Form1.resources
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo_sata.Properties.Resources.resources
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo sata.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo sata.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo sata.exe
+C:\Users\marti\source\repos\Tipkalo sata\Tipkalo sata\obj\Debug\Tipkalo sata.pdb
